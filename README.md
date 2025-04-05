@@ -16,7 +16,6 @@ Rust Onion Network ( For Using API Telegram Live Traffic )
 - [x] Captrue Logs
 - [x] Support HTTP Proxy
 - [x] Using Custom API Telegram
-- [x] SiteChecker
 - [x] Secure
 - [x] External ( Group ID )
 - [x] Sensitive design for creating any logs
